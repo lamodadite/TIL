@@ -11,4 +11,4 @@ Today I Learned
 
 [2022-05-27](https://github.com/lamodadite/TIL/blob/main/Computer%20Science.md)
 
-[2022-05-27](https://github.com/lamodadite/TIL/blob/main/Computer%20Science.md)
+[2022-05-28](https://github.com/lamodadite/TIL/blob/main/Computer%20Science.md)

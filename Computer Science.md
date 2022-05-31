@@ -44,3 +44,44 @@
 
 - 즉, 0과 1만 가지고 우리는 컴퓨터와 의사소통을 할 수 있다. 0과 1로 이루어진 데이터를 우리는 **bit**라고 한다
 - 비트와 연산
+
+### 논리 연산
+
+- AND, OR 연산자
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be9645d9-710a-4d8c-8e2b-df6cc010cdec/Untitled.png)
+
+- 직렬과 교류의 원리와도 같다.
+- 논리연산이 가능한 회로를 구성할 수 있다.
+
+### NOT Gate
+
+- 결과값을 반대로 반환
+
+### NAND와 NOR GATE
+
+- AND와 OR의 결과값과 반대
+
+### 부울 대수식
+
+- 1 X 1 = 1 이니까, A = 1, B = 1 이면 AND는 AB로 A X B 처럼 생각해도 큰 무리가 없음
+
+---
+
+## 반가산기와 전가산기 동작 이해
+
+### 반가산기
+
+- 1 bit짜리 2진수 두 개를 덧셈한 합(S)과 자리올림수(C)를 구하는 조합논리회로
+- XOR 와 AND 게이트를 사용하면 한 자리의 덧셈 가능
+
+### 전가산기
+
+- 뒷자리에서 올라온 자리올림수(Ci)를 포함하여 1bit짜리의 2진수 3자리를 더하여 합(Si)과 자리올림수(ci+1)을 구하는 회로
+- 두 개의 반가산기와 한 개의 OR Gate로 구성되어 있음
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c9a308e-df9a-45d8-85ab-c1df7a87091c/Untitled.png)
+
+---
+
+## 16비트 가산기와 클럭 동작 이해

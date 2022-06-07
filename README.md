@@ -24,3 +24,5 @@ Today I Learned
 [2022-06-04](https://github.com/lamodadite/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 
 [2022-06-06](https://github.com/lamodadite/TIL/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+
+[2022-06-07](https://github.com/lamodadite/TIL/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)

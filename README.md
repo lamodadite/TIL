@@ -25,4 +25,6 @@ Today I Learned
 
 [2022-06-06](https://github.com/lamodadite/TIL/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 
-[2022-06-07](https://github.com/lamodadite/TIL/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+[2022-06-07](https://github.com/lamodadite/TIL/blob/main/Hashtable%EA%B3%BC%20Hashmap%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
+
